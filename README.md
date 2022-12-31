@@ -22,3 +22,7 @@ This database system improves the universities' current placement process by inf
 - To design a database system that will provide students with the information the recruitments and the criteria, from the university as well as the companies.
 - To create a secure database for the university, students and the companies' sensitive information.
 - To create a system through which university would be able to keep track of the student employment.
+
+<br/>
+
+<img src = "CRMS_ERD.png">
